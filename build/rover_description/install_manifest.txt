@@ -1,0 +1,15 @@
+/home/zhang/rover_sim/install/rover_description/share/ament_index/resource_index/package_run_dependencies/rover_description
+/home/zhang/rover_sim/install/rover_description/share/ament_index/resource_index/parent_prefix_path/rover_description
+/home/zhang/rover_sim/install/rover_description/share/rover_description/environment/ament_prefix_path.sh
+/home/zhang/rover_sim/install/rover_description/share/rover_description/environment/ament_prefix_path.dsv
+/home/zhang/rover_sim/install/rover_description/share/rover_description/environment/path.sh
+/home/zhang/rover_sim/install/rover_description/share/rover_description/environment/path.dsv
+/home/zhang/rover_sim/install/rover_description/share/rover_description/local_setup.bash
+/home/zhang/rover_sim/install/rover_description/share/rover_description/local_setup.sh
+/home/zhang/rover_sim/install/rover_description/share/rover_description/local_setup.zsh
+/home/zhang/rover_sim/install/rover_description/share/rover_description/local_setup.dsv
+/home/zhang/rover_sim/install/rover_description/share/rover_description/package.dsv
+/home/zhang/rover_sim/install/rover_description/share/ament_index/resource_index/packages/rover_description
+/home/zhang/rover_sim/install/rover_description/share/rover_description/cmake/rover_descriptionConfig.cmake
+/home/zhang/rover_sim/install/rover_description/share/rover_description/cmake/rover_descriptionConfig-version.cmake
+/home/zhang/rover_sim/install/rover_description/share/rover_description/package.xml
