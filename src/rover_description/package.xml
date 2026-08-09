@@ -3,12 +3,15 @@
 <package format="3">
   <name>rover_description</name>
   <version>0.0.0</version>
-  <description>TODO: Package description</description>
+  <description>Contains robot description files that define physical properties</description>
   <maintainer email="dzhangir.07@gmail.com">zhang</maintainer>
   <license>TODO: License declaration</license>
 
   <buildtool_depend>ament_cmake</buildtool_depend>
-
+  <depend>xacro</depend>
+  <depend>robot_state_publisher</depend>
+  <depend>joint_state_publisher_gui</depend> 
+  <depend>rviz2</depend>
   <test_depend>ament_lint_auto</test_depend>
   <test_depend>ament_lint_common</test_depend>
 
