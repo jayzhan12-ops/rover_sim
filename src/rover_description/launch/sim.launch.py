@@ -32,7 +32,7 @@ def generate_launch_description():
                 'launch', 'gz_sim.launch.py'
             )
         ),
-        launch_arguments={'gz_args': f'-r -v 3 {world_file}'}.items(),
+        launch_arguments={'gz_args': f'-r -s -v 3 {world_file}'}.items(),
     )
 
     # Publishes the URDF and base_link -> sensor transforms
